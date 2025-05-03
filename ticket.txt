@@ -1,0 +1,19 @@
+==============================================
+             METRO TICKET                     
+==============================================
+Passenger: John Smith
+Phone: 9876543210
+Date: 2025-04-27 22:01:44
+----------------------------------------------
+From: Rajiv Chowk (Blue Line)
+To: Kashmere Gate (Red Line)
+----------------------------------------------
+Route:
+1. Rajiv Chowk (Blue Line)
+2. Connaught Place (Yellow Line)
+3. Chandni Chowk (Yellow Line)
+4. Kashmere Gate (Red Line)
+----------------------------------------------
+Number of stations: 3
+Fare: Rs. 31.00
+==============================================
